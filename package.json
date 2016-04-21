@@ -1,7 +1,7 @@
 {
-  "name": "cpws",
+  "name": "help-api",
   "version": "1.0.0",
-  "description": "cpws project",
+  "description": "help-api project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -30,7 +30,7 @@
     "grunt-open": "^0.2.3"
   },
   "repository": {
-    "url": "https://github.com/tuggwoii/cpws.git",
+    "url": "https://github.com/tuggwoii/help-api.git",
     "type": "github"
   }
 }

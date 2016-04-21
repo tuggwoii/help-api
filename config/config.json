@@ -2,7 +2,7 @@
   "development": {
     "username": "axkme@axkme",
     "password": "Axkdb2016",
-    "database": "restbuilder",
+    "database": "help",
     "host": "axkme.database.windows.net",
     "dialect": "mssql",
     "dialectOptions": {
